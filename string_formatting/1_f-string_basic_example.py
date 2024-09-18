@@ -8,6 +8,8 @@ print()  # Print a blank line for spacing
 # Use an f-string to print the message showing the number of burritos and their total cost
 
 print("f-string format:")
+print(f'')
+print('')
 print(f'{number} burritos cost ${amount}')  # Output: '6 burritos cost $32'
 
 print()  # Print another blank line for spacing

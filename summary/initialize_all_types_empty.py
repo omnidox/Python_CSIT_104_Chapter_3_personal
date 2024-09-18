@@ -27,3 +27,6 @@ print("Empty set:", empty_set)
 print()
 print("Empty dictionary:", empty_dict)
 print()
+
+
+print("hello world")
